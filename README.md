@@ -1,5 +1,6 @@
 # restart_ibus
 解决ubuntu系统键盘卡死问题
+
 Bash：
 
 echo "[Desktop Entry]
